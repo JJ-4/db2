@@ -1,0 +1,5 @@
+1. Create database
+
+CREATE DATABASE db_1
+
+2. Creater table fencers 
